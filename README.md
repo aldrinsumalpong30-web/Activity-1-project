@@ -1,0 +1,5 @@
+Name: John Aldrin F. Sumalpong 
+Project Title: Git Workshop
+Brief Description: A simple HTML file containing basic text, created to practice Git commands by making, saving, and tracking changes in the repository history.
+Reflection: Through this activity, I learned the basic functions of Git and how it can be used to track changes in a project. I practiced creating commits, adding changes, viewing the repository history, and updating commit messages. This activity helped me understand the importance of version control because it allows developers to keep track of their work and return to previous versions when needed. Overall, I gained a better understanding of how Git can help organize and manage projects efficiently.
+In your own words, what is the difference between git add and git commit? git add prepares the changes I made by putting them in the staging area, while git commit saves those staged changes as a permanent record in the Git repository.
